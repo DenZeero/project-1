@@ -1,13 +1,13 @@
 [app]
 
 # (str) Title of your application
-title = YourAppTitle
+title = Myapp
 
 # (str) Package name
-package.name = yourapp
+package.name = myapp
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.yourdomain
+package.domain = org.myapp
 
 # (str) Source code where the main.py live
 source.dir = .
@@ -67,7 +67,7 @@ orientation = portrait
 osx.python_version = 3
 
 # Kivy version to use
-osx.kivy_version = 1.9.1
+osx.kivy_version = 3.7.6
 
 #
 # Android specific
